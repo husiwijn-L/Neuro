@@ -327,7 +327,7 @@
     display: flex;
     align-items: flex-start;
     align-items: center;
-    gap: 10px;
+    gap: 30px;
   }
   
   .button5 {
@@ -379,3 +379,209 @@
     height: 150px;
     margin-bottom: -10px;
   }
+
+  .orange {
+    background-color: #F7D8BF;
+    height: 1401.33px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .text3 {
+    color: #C47B59;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+  }
+
+  .color1 {
+    display: flex;
+    align-items: flex-start;
+    align-items: center;
+    gap: 30px;
+  }
+
+  .button6 {
+    width: 346.67px;
+    height: 69.33px;
+    border-style: solid;
+    border-color: #C47B59;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .text3 > h1 {
+    font-family: "Roboto";
+    font-size: 73.33px;
+    font-weight: 400px;
+    line-height: 83.6px;
+  }
+
+  .text3 > p {
+    font-family: "Roboto";
+    font-size: 25.33px;
+    font-weight: 400px;
+    line-height: 40px;
+  }
+
+  .color1 > p {
+    font-family: "Roboto";
+    font-size: 21.33px;
+    font-weight: 400px;
+    line-height: 32px;
+  }
+
+  .button6 > a > p {
+    color: #C47B59;
+    font-family: "Roboto";
+    font-size: 18.67px;
+    font-weight: 400px;
+    line-height: 19.79px;
+    text-transform: uppercase;
+  }
+
+  .tabletki {
+    height: 1132px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 150px;
+  }
+
+  .text4 {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+  }
+
+  .button7 {
+    width: 346.67px;
+    height: 69.33px;
+    border-style: solid;
+    border-color: #000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .text4 > h1 {
+    font-family: "Roboto";
+    font-size: 53.33px;
+    font-weight: 400px;
+    line-height: 60.27px;
+  }
+
+  .text4 > p {
+    font-family: "Roboto";
+    font-size: 26.67px;
+    font-weight: 400px;
+    line-height: 40px;
+  }
+
+  .button7 > a > p {
+    font-family: "Roboto";
+    color: #000000;
+    font-size: 18.67px;
+    font-weight: 400px;
+    line-height: 19.79px;
+    text-transform: uppercase;
+  }
+
+  .tetenka {
+    height: 1132px;
+    background-color: #F1FAF6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 150px;
+  }
+
+  .text5 {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+  }
+
+  .button8 {
+    width: 346.67px;
+    height: 69.33px;
+    border-style: solid;
+    border-color: #000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .text5 > h1 {
+    font-family: "Roboto";
+    font-size: 53.33px;
+    font-weight: 400px;
+    line-height: 60.27px;
+  }
+
+  .text5 > p {
+    font-family: "Roboto";
+    font-size: 26.67px;
+    font-weight: 400px;
+    line-height: 40px;
+  }
+
+  .button8 > a > p {
+    font-family: "Roboto";
+    color: #000000;
+    font-size: 18.67px;
+    font-weight: 400px;
+    line-height: 19.79px;
+    text-transform: uppercase;
+  }
+
+.ryka {
+    height: 893.33px;
+    background-color: #FCF2F0;
+    display: flex;
+    align-items: center;
+    gap: 300px;
+}
+
+.text6 {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.button9 {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.poloska {
+    width: 161px;
+    height: 2px;
+    background-color: black;
+}
+
+.text6 > h1 {
+    font-family: "Roboto";
+    font-size: 53.33px;
+    font-weight: 400px;
+    line-height: 60.27px;
+}
+
+.text6 > p {
+    font-family: "Roboto";
+    font-size: 26.67px;
+    font-weight: 400px;
+    line-height: 40px;
+}
+
+.button9 > a > p {
+    font-family: "Roboto";
+    color: #000000;
+    font-size: 21.33px;
+    font-weight: 400px;
+    line-height: 22.61px;
+    text-transform: uppercase;
+}
